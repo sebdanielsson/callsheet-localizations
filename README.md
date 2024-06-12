@@ -8,26 +8,28 @@ There are two sections:
 
 ## Current Status
 
-As of [14eb174](https://github.com/cliss/callsheet-localizations/commit/14eb1748d472ada52ab86d459fb4e40095a24753):
+As of [5e8f2c5](https://github.com/cliss/callsheet-localizations/commit/5e8f2c52b02aba3d04d23cb901a27b067df5a730):
 
 | Language        | % Complete  | [App Store][as] | Authors                           |
 | :-------------- | :---------- | :-------------- | :-------------------------------- |
-| English         | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Modern](https://en.wikipedia.org/wiki/United_States)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Traditional](https://en.wikipedia.org/wiki/United_Kingdom)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| English ([Simplified](https://en.wikipedia.org/wiki/Australia)) | N/A         | ✔️              | [cliss](https://github.com/cliss) |
+| Dutch           | 100% :tada: | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
 | German          | 100% :tada: | ✔️              | [DonSqueak](https://github.com/donsqueak), [technocidal](https://github.com/technocidal), [fweber-de](https://github.com/fweber-de) |
 | Hebrew          | 100% :tada: | ✔️              | [orisraeli](https://github.com/orisraeli) |
+| Italian         | 100% :tada: | ✔️              | [cdf1982](https://github.com/cdf1982) |
+| Norwegian (Bokmål) | 100% :tada: | ✔️              | [lognseth](https://github.com/lognseth) |
+| Russian         | 100% :tada: | ✔️              | [gkeep](https://github.com/gkeep) |
+| Swedish         | 100% :tada: | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
 | Ukrainian       | 100% :tada: | ✔️              | [zemlanin](https://github.com/zemlanin), [buzbohdan](https://github.com/buzbohdan) |
-| Polish          | 100% :tada: |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
-| Dutch           | 99%         | ✔️              | [Deddiekoel](https://github.com/deddiekoel), [icod](https://github.com/icod) |
-| Italian         | 99%         | ✔️              | [cdf1982](https://github.com/cdf1982) |
-| Portuguese (🇵🇹) | 99%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
-| Russian         | 99%         | ✔️              | [gkeep](https://github.com/gkeep) |
-| Spanish         | 99%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
-| Swedish         | 99%         | ✔️              | [sebdanielsson](https://github.com/sebdanielsson) |
-| French (🇫🇷)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| French (🇨🇦)     | 99%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
-| Norwegian (Bokmål) | 99%         | ✔️              | [lognseth](https://github.com/lognseth) |
-| Portuguese (🇧🇷) | 73%         |                 | [insidegui](https://github.com/insidegui) |
-| Japanese        | 34%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
+| Polish          | 98%         |                 | [spitfire](https://github.com/spitfire), [DonSqueak](https://github.com/donsqueak) |
+| Portuguese (🇵🇹) | 97%         | ✔️              | [apfernandes](https://github.com/apfernandes) |
+| Spanish         | 97%         | ✔️              | [unaiherran](https://github.com/unaiherran) |
+| French (🇫🇷)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| French (🇨🇦)     | 97%         |                 | [EricEEEEE](https://github.com/EricEEEEE), [samthegeek](https://github.com/samthegeek), [DonSqueak](https://github.com/donsqueak) |
+| Portuguese (🇧🇷) | 71%         |                 | [insidegui](https://github.com/insidegui) |
+| Japanese        | 33%         |                 | [kenroy](https://github.com/kenroy), [jaddkeita](https://github.com/jaddkeita) |
 | Danish          | 6%          |                 | [hanse00](https://github.com/hanse00) |
 
 [as]: https://github.com/cliss/callsheet-localizations/tree/main/AppStore
